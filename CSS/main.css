@@ -69,49 +69,46 @@
 
 
 /* VAGAS DISPONIVEIS */
-.vagas_disponivel_titulo{
+.Vagas_Disponível_Título{
     margin: 2em 15em;
     text-align: left;
  }
  
  
  
- .titulo_vaga_disponivel{
+ .Título_Vaga_Disponível{
      font-size: 20px;
-     color: var(--cor-letra2);
+     color: #101828;
      font-weight: 500;
      margin:5em 2em 2em 2em;
  }
  
- .vagas_disponivel_container{
+ .Vagas_Disponível_Container{
      border: 2px solid #EAECF0;
      margin: 1em;
      padding: 2em;
      border-radius: 16px;
- }
- 
- .vagas_disponivel_container:hover {
      box-shadow: 1px 1px 2px  black;
  }
+
  
- 
- .vagas_disponivel{
+ .Vagas_Disponível{
      font-size: 18px;
      font-weight: 500;
-     color: var(--cor-letra2);
+     color: #101828;
  }
  
- .descricao_vaga_container{
+ .Descrição_Vaga_Container{
      display: flex;
      margin-top: 2em;
  }
  
- .descricao_vaga{
+ .Descrição_Vaga{
      font-size: 16px;
      font-weight: 500;
      line-height: 24px;
      margin-right: 4em;
-     color:var(--cor-texto);
+     color:#667085;
  }
 
 
